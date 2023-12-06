@@ -1,5 +1,5 @@
 # CronometroJS
-## Cronômetro simples em Javascript com as funções básicas semdp elas:
+## Cronômetro simples em Javascript com as funções básicas sendo elas:
 <ol>
   <li><em><strong>iNICIAR</strong></em><</li>
   <li><em><strong>PAUSAR</strong></em><</li>
